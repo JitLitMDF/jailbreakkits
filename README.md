@@ -5,9 +5,9 @@
 **Curated jailbreak prompts & kits for modern AI models.**  
 *Tested, documented, and ready to paste.*
 
-[![Discord](https://img.shields.io/badge/Jailbreaking_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PQrkfRJMPK)
-[![Commissions](https://img.shields.io/badge/Commissions_Open-FF6B6B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jitlit_mdf)
-[![Vacban](https://img.shields.io/badge/vacban.wtf-jitlit__mdf-000000?style=for-the-badge)](https://vacban.wtf)
+[![Main Discord Server](https://img.shields.io/badge/Jailbreaking_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PQrkfRJMPK)
+[![Vacban](https://img.shields.io/badge/vacban.wtf-jitlit__mdf-000000?style=for-the-badge)](https://vacban.wtf/members/146845/)
+[![FREE ChatBots Discord Server](https://img.shields.io/badge/Jailbreaking_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gSZRxhJk4n)
 
 </div>
 
@@ -32,7 +32,7 @@ No theory dumps, no walls of jargon. Built for people who want results.
 |-----|-------------|--------|-------------|
 | [AXIOM-9](./axiom_jailbreak_kit.md) | Gemini 3.5 Flash | ✅ Working | Fictional compiler persona — great for getting code output through "language documentation" |
 | [DR-7](./dr7_simple_guide.md) | Gemini 3.5 Flash | ✅ Working | Forensics training simulator — most versatile, highest success rate |
-| [Silvanus Chain](./silvanus_escalation_kit.md) | Gemini 3.5 Flash | ⚡ Multi-turn | Historical archivist escalation chain — gets deep technical detail through allegory |
+| [Silvanus Chain](./silvanus_simple_guide.md) | Gemini 3.5 Flash | ⚡ Multi-turn | Historical archivist escalation chain — gets deep technical detail through allegory |
 
 > **New here?** Start with **DR-7**. It's the easiest to use and works on the widest range of topics.
 
